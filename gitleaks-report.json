@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 16,
+  "EndLine": 16,
+  "StartColumn": 21,
+  "EndColumn": 58,
+  "Match": "ClientId: \"18csisad7okih7mdovl0fmhcl7\"",
+  "Secret": "18csisad7okih7mdovl0fmhcl7",
+  "File": "microservices/admin-panel/src/index.js",
+  "SymlinkFile": "",
+  "Commit": "68ae15d12fd167017594dc47c2cc754fb18f3640",
+  "Entropy": 3.9021747,
+  "Author": "Pira",
+  "Email": "pira@Piras-MacBook-Pro.local",
+  "Date": "2023-07-05T11:42:34Z",
+  "Message": "nhs files for testing",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "68ae15d12fd167017594dc47c2cc754fb18f3640:microservices/admin-panel/src/index.js:generic-api-key:16"
+ }
+]
